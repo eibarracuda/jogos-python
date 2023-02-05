@@ -2,10 +2,13 @@
 ## Conteudo
 - _jogos.py_: Menu de escolha entre os jogos;
 - _adivinhacao.py_: Jogo de **adivinhação** 
-  - **Numero aleatório** de 1 a 100
-  - **3 dificuldades** (o número de tentativas varia a cada uma delas)
-  - Diz se seu chute foi **maior** ou **menor** que o numero pensado
-- _forca.py_: **Em desenvolvimento**.
+	- **Numero aleatório** de 1 a 100
+	- **3 dificuldades** (o número de tentativas varia a cada uma delas)
+	- Diz se seu chute foi **maior** ou **menor** que o numero pensado
+- _forca.py_: Jogo de forca
+	- Seleciona a palavra secreta de uma lista
+	- 7 vidas com desenho de forca
+	
 
 ## Sobre
 
@@ -18,4 +21,4 @@ Este projeto é produto das aulas da [Alura](https://www.alura.com.br)[^1] e faz
 	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-[^1] _Python: começando com a linguagem_,e _Python: avançando na linguagem_ 
+[^1] _Python: começando com a linguagem_, e _Python: avançando na linguagem_ 
