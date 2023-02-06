@@ -12,7 +12,7 @@
 
 ## Sobre
 
-Este projeto é produto das aulas da [Alura](https://www.alura.com.br) ^[_Python: começando com a linguagem_, e _Python: avançando na linguagem_ ] e fazem parte da [Formação Dados Desenvolve - GB | 2023](https://docs.google.com/document/d/e/2PACX-1vSFPoygh9JnGVi0v_K4cMhUdKsekd0kPcC3BoQgbG_Z8MmvySWGC0q0GkDiC5OkyO2wpZyPLVuG5J-w/pub).
+Este projeto é produto das aulas da [Alura](https://www.alura.com.br)[^1] e fazem parte da [Formação Dados Desenvolve - GB | 2023](https://docs.google.com/document/d/e/2PACX-1vSFPoygh9JnGVi0v_K4cMhUdKsekd0kPcC3BoQgbG_Z8MmvySWGC0q0GkDiC5OkyO2wpZyPLVuG5J-w/pub).
 
 ***
 
@@ -21,4 +21,4 @@ Este projeto é produto das aulas da [Alura](https://www.alura.com.br) ^[_Python
 	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-
+[^1]: _Python: começando com a linguagem_, e _Python: avançando na linguagem_ 
